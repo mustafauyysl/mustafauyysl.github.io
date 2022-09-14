@@ -1,0 +1,11 @@
+KPSS GENEL YETENEK ÇIKMIŞ SORULARI ARTIK TELEFONUNUZDA.
+
+Bu uygulama aracılığıyla KPSS çıkmış sorularına ulaşmak artık çok kolay. Uygulamamız ÖSYM tarafından yayınlanan tüm soruları kapsamaktadır.
+
+KPSS’ye hazırlanma sürecinizde sizin için en pratik kullanıma sahip bu uygulama sayesinde bilginizi test edebilir, sınava ne kadar hazır olduğunuzu görebilirsiniz. 
+
+-KPSS Tarih çıkmış sorular 
+-KPSS Coğrafya çıkmış sorular 
+-KPSS Vatandaşlık çıkmış sorular 
+-KPSS Türkçe çıkmış sorular 
+-KPSS Matematik çıkmış sorular 
