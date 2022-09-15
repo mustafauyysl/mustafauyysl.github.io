@@ -1,1 +1,0 @@
-# mustafauyysl.github.io
